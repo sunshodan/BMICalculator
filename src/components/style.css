@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #f6f6f6;
+  color: #161d6f;
+}
+.f1 {
+  padding: 10px;
+}
+.l1 {
+  padding: 5px;
+}
+.textbox {
+  border: 2px solid #98ded9;
+  border-radius: 5px;
+}
+.btn {
+  color: #161d6f;
+  background-color: #c7ffd8;
+  border: 2px solid #98ded9;
+  border-radius: 5px;
+}
