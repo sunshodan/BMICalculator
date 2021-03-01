@@ -6,7 +6,7 @@ const Material = () => {
   const [ans, setAns] = useState("");
   // useEffect(() => {
   //   setAns(weight / (height * height));
-  // }, [weight, height]);
+  // }, [weight, height]); jhfgijhfgdush
   const weightHandler = (e) => {
     setWeight(e.target.value);
   };
